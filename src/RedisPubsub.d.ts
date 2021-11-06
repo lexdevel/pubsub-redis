@@ -1,9 +1,9 @@
-import { RedisClient } from "redis";
+import { RedisClient } from 'redis';
 
 /**
  * Redis pub-sub wrapper class.
  */
-export class PubSub {
+export class RedisPubsub {
   /**
    * Constructor.
    * @param {RedisClient} redisClient - Redis client

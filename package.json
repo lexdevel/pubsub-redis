@@ -2,7 +2,7 @@
   "name": "@lexdevel/redis-pubsub",
   "type": "module",
   "description": "Redis pubsub",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "main": "index.js",
   "author": "Alexander Logvinenko <lexdevel@gmail.com>",
